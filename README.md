@@ -21,12 +21,12 @@ JavaScript | MongoDB | Express.js | Handlebars | Node.js | CRUD | API |Axios | H
 - [GitHub repo](https://github.com/OsvaldoPicazo/TravelShare)
 - [Go to App](https://sumtravelshare.herokuapp.com)
 
-### Asteroids Tribute
+### Bubble-Control
 A rendition of the old-school arcade game.
 </br> 
 JavaScript | CSS | HTML Canvas | Node.js | DOM Manipulation |
-- [GitHub repo](https://github.com/OsvaldoPicazo/asteroids-game)
-- [Play the game](https://osvaldopicazo.github.io/asteroids-game/)
+- [GitHub repo]()
+- [Play the game]()
 
 
 
