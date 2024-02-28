@@ -1,5 +1,5 @@
 
-# Hi, I'm Flavian Albert
+# Hi, I'm Flavian-Mihai Albert
 
 Here you can check my projects. I'm currently working on Full-Stack Web Development with JavaScript/Node.js and frameworks like Express.js, React.js and Vue.js. Feel free to contact me here:
 
